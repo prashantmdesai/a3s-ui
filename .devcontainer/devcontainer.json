@@ -20,7 +20,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"github.copilot"
+				"github.copilot",
+				"Angular.ng-template"
 			]
 		}
 	},
