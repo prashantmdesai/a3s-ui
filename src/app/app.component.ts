@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'a3s-ui - API as a Service Changed Changed again';
+  title = 'a3s-ui - API as a Service Updated for the first time in DevContainers';
 }
